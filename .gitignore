@@ -1,0 +1,11 @@
+# Backups exportados pelo app (podem ter tarefas reais)
+kanban-*.json
+calendario-*.html
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
